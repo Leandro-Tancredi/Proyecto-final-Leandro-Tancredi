@@ -1,0 +1,19 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+#titulo{
+        margin-top: 30px;
+        margin-bottom: 50px;
+        text-align: center;
+}
+
+.posicion_boton{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.posicion_boton1{
+    display: flex;
+    justify-content: center;
+}
